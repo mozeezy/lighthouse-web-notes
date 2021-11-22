@@ -4,4 +4,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by [Mohamed] (https://github.com/mozeezy/lighthouse-web-notes) for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Mohamed](https://github.com/mozeezy/lighthouse-web-notes) for the Lighthouse Labs Web Development Bootcamp.
